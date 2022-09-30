@@ -1,6 +1,6 @@
 # Bem vindo (a) ao meu prefil
 
-Olá, eu sou o Pedro Lacerda
+Olá, eu sou o Sandro Stocco
 
 ## Meus Hobbies
 
